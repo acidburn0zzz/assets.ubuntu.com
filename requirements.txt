@@ -23,5 +23,5 @@ simplejson==3.16.0
 sphinx-me==0.3
 tornado==4.5.3
 Wand==0.5.2
-Werkzeug==0.15.1
+Werkzeug==3.0.1
 wsgiref==0.1.2; python_version < '3.0'
